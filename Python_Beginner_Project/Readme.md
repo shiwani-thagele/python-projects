@@ -63,7 +63,9 @@ Result: 15.0
 ---
 
 ## 📂 Project Structure  
-
+📦 Python-Calculator
+┣ 📜 calculator.py # Main Python file
+┣ 📜 README.md # Documentation file
 
 ---
 
@@ -83,11 +85,4 @@ By building this project, I learned:
 
 ---
 
-## 📸 Screenshots (Optional)  
-_Add some screenshots of your calculator run in the terminal here._  
-
----
-
-## 📜 License  
-This project is licensed under the **MIT License**. You are free to use and modify it.  
 
